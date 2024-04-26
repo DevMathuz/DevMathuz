@@ -1,14 +1,20 @@
-### Olá, meu nome é {Matheus}!
+<h1 align="left">Olá, me chamo {Matheus}! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=DevMathuz&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p> - Estudando {Js, Ruby, Mongo e NodeJs}<br/> - Eu sou desenvolvedor {FullStack}</p>
 
-<p>Estudando {Ensino Médio}<br/> Eu sou desenvolvedor {FullStack}</p>
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[mo206690@gmail.co](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXMJDsLCJjwXTZfSFRWHJrBTRdcVZMSLxVhlZWjcFfndwbZqTrzMrqFfjwhjbVwlzzkdM)m" alt="Gmail"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+<h2><img src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png" width="17"> Aluno da OneBitCode</h2>
+
+
+<img src="https://img.shields.io/badge/Apenas%20%20Faça-8A2BE2" height="30px">
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
