@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mo206690@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[mo206690@gmail.co](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXMJDsLCJjwXTZfSFRWHJrBTRdcVZMSLxVhlZWjcFfndwbZqTrzMrqFfjwhjbVwlzzkdM)m" alt="Gmail"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
   <a href="#" title="Instagram">
