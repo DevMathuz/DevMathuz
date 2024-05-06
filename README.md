@@ -3,9 +3,6 @@
 <p> - Estudando {Js, Ruby, Mongo e NodeJs}<br/> - Eu sou desenvolvedor {FullStack}</p>
 
 
-<h2><img src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png" width="17"> Aluno da OneBitCode</h2>
-
-
 <img src="https://img.shields.io/badge/Apenas%20%20Faça-8A2BE2" height="30px">
 
 ## 🚀 Minhas Skills
